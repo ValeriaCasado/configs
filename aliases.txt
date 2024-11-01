@@ -1,0 +1,2 @@
+alias workon='source venv/bin/activate'
+alias test_command="echo 'This is a test'"
